@@ -1,7 +1,7 @@
  
 
 var typed = new Typed(".text", {
-    strings: ["korangu " ],
+    strings: ["FullStack Developer " ],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
